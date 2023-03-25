@@ -31,7 +31,7 @@ function App() {
         <Route path="/url-shortening-api/resources" element={<Resources />} />
         <Route path="/url-shortening-api/login" element={<Login />} />
         <Route path="/url-shortening-api/signup" element={<SignUp />} />
-        <Route path="/*" element={<Home />} />
+        <Route path="/url-shortening-api/*" element={<Home />} />
       </Routes>
       <Footer />
     </div>

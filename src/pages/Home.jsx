@@ -29,7 +29,7 @@ function Home() {
         </div>
       </div>
       {/* adv statistics/shortener */}
-      <div className="bg-background-gray pb-20">
+      <div className="bg-grayish-violet pb-20">
         {/* shortening component */}
         <Shortener />
         {/* Statistics */}

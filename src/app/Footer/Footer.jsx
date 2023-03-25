@@ -59,7 +59,8 @@ function Footer() {
               />
             </svg>
           </a>
-          <a href="#" className="mr-5">
+          {/* Instagram */}
+          <a href="#">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
               <path
                 className="hover:fill-cyan"

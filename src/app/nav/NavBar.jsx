@@ -83,7 +83,7 @@ function NavBar() {
               }}
             />
             <li onClick={() => linksList(false)}>
-              <a href="/url-shortening-api/signup">
+              <a href="#">
                 <button className="btn-primary px-8">
                   <p>Sign Up</p>
                 </button>
